@@ -1,7 +1,6 @@
 ## 參考資料
 程式參考自 
 1. [JS 華容道]（https://blog.csdn.net/HHX19945656/article/details/115104275） 
-2. [參考資料]（http://simonsays-tw.com/web/Klotski/Klotski.html）
 
 # 研究動機與學習過程
 想自己開發游戲。所以就選了華容道，并且想瞭解游戲的程式如何寫。雖在CSS上多加了美工以及多製作了一個重新開始的按鈕。但無奈技術不足，模仿了作者的程式碼，想完全修改卻無法修改全部程式。
