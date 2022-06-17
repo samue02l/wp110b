@@ -54,8 +54,9 @@ id="index_0">1
 # 不了解的程式
 
 window.onload=function();
-以及
-updateEmptyfunction()
+
+*上網瞭解只知道用于网页加载完毕后立刻执行的操作，且試過刪掉后會導致整個格子與功能無法移動
+
 
 # 引用
 只用了參考資料中的代碼
